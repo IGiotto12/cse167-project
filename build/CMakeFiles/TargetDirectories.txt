@@ -1,0 +1,3 @@
+/Users/chenshengrui/Documents/RayTracer-setup/build/CMakeFiles/RayTracer.dir
+/Users/chenshengrui/Documents/RayTracer-setup/build/CMakeFiles/edit_cache.dir
+/Users/chenshengrui/Documents/RayTracer-setup/build/CMakeFiles/rebuild_cache.dir
