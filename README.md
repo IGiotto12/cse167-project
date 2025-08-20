@@ -1,0 +1,1 @@
+This project implements a ray tracing renderer, with OpenGL used as a framework for displaying the computed image. All rendering is performed through ray tracing algorithms (intersection tests, lighting models, reflections, and refractions), while OpenGL simply handles the window and pixel buffer for output.
